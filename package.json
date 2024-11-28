@@ -1,0 +1,19 @@
+{
+  "name": "@devinjohw/how-to-dupmutate",
+  "version": "1.0.0",
+  "description": "How to dupmutate?",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devinjohw/how-to-dupmutate.git"
+  },
+  "bugs": {
+    "url": "https://github.com/devinjohw/how-to-dupmutate/issues"
+  },
+  "homepage": "https://github.com/devinjohw/how-to-dupmutate#readme",
+  "keywords": ["Dupmutate", "React.js", "JavaScript"],
+  "author": "",
+  "license": "ISC"
+}
